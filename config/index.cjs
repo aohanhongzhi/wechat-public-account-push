@@ -8,15 +8,15 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx0fdc7f220f6b0eb8',
+  APP_ID: "wx0fdc7f220f6b0eb8",
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '823e91159ab29eb73b1e62eecd933ed5',
+  APP_SECRET: "823e91159ab29eb73b1e62eecd933ed5",
 
   PROVINCE: '浙江',
   CITY: '温州',
 
-  USERS: [oOkjD6h04y9KQm6RqKfrpKry6b4I
+  USERS: ["oOkjD6h04y9KQm6RqKfrpKry6b4I
     {
       // 想要发送的人的名字
       name: '宝宝',
