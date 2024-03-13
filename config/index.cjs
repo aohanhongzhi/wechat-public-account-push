@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '浙江',
   CITY: '温州',
 
-  USERS: ["oOkjD6h04y9KQm6RqKfrpKry6b4I
+  USERS: [
     {
       // 想要发送的人的名字
       name: '宝宝',
